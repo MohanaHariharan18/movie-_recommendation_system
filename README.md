@@ -1,13 +1,7 @@
 # 🎬 Movie Recommendation System
 
 A content-based movie recommendation engine built with Python, Pandas, and scikit-learn. This project analyzes movie metadata (genres, keywords, cast, overview) to recommend similar movies using cosine similarity on TF-IDF vectors. Perfect for data analytics portfolios demonstrating NLP, vectorization, and recommendation algorithms.[web:7][web:13]
----
-## 📌 Project Description
 
-This project implements a **content-based movie recommendation system** that suggests movies similar to a given movie based on features such as genres and metadata.  
-The system uses **data preprocessing, similarity computation, and machine learning concepts** to generate recommendations.
-
-The project is implemented and demonstrated using **Jupyter Notebooks**.
 ---
 
 ## ✨ Features
